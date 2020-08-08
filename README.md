@@ -1,5 +1,5 @@
 # PV_energy_forcasting_machine_learning
 Script owner : Abdessamad Hamaoui,
 Multi-linear Regression/Random Forest/SVR/KNN , 
-Script contain the implementation of forth robust machine learning on dataset of Australia, 
-In order to run the script u have to download first dataset after u set the path ,file_name and make sure u have the required libraries
+This script contain the implementation of four robust machine learning models apply to  Australia data. 
+In order to run the script , first u have to download data-set , after upload it and set the path file_name , finally  make sure u have the required libraries to run the scripts .
